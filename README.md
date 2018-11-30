@@ -1,7 +1,7 @@
 # Sambor_Tradeoffs
 
 - [Overview](#Overview)
-- [Contacts](#Contact)
+- [Contacts](#Contacts)
 - [Contents](#Contents)
 
 # <a name="Overview"></a>Overview
