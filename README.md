@@ -23,7 +23,7 @@ Erland D. Jensen, EDJConsultant@gmail.com
 
 # <a name="Contents"></a>Contents
 
-**DataInPaper**: Directory containing all of the data generated in this paper, including the reference set from the simulation-optimizaiton experiment.
+**DataInPaper**: Directory containing all of the data generated in this paper, including the reference set from the simulation-optimization experiment.
 
 **SimulationOptimization**: Directory containing the code and input files required to run the simulation-optimization experiment presented in the paper. The input files contain much of the data that drive the simulation model of the Sambor and Sambor EA sites, including hydrology, hydraulics, reservoir elevation-volume-area curves, powerhouse specifications, etc.
 
