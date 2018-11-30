@@ -1,0 +1,6 @@
+File Names/Locations and Preferences,,Notes,,,,
+Simulation Title,Sambor_EA,Required (Old: Sambor Original),,,,"Alternative 7A with Flushing-six_objs_stoch_reeval, Alternative 7A with Flushing-six_objs_extremes_stoch_reeval_stoch,"
+Input file folder path,C:\Users\twild\JWRPM\Results\Output_Storage\Scenarios_Input_Data,"Required; Be sure to adjust so convention reflects operating system in use, e.g. './Output_Storage/Scenarios_Input_Data'  in Linux",,,,
+Input file name,,"If blank, will append "" - Simulation_Title.xlsx"" to ""PySedSim_Input_File""",,,,
+Monte carlo input file,Parameters_for_MC_Stochastic.xlsx,,,,,
+Simulation output file path,C:\Users\twild\JWRPM\Results\Output_Storage,"Required; Be sure to adjust so convention reflects operating system in use, e.g. './Output_Storage' in Linux to store directly in sub-folder",,,,
