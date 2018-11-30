@@ -1,10 +1,16 @@
 # Sambor_Tradeoffs
 
-- [Contact Us](#Contact)
 - [Overview](#Overview)
+- [Contacts](#Contact)
 - [Contents](#Contents)
 
-# <a name="Contact Us"></a>Contact
+# <a name="Overview"></a>Overview
+
+This repository contains all of the code used for the study described in the following paper:
+
+Wild, T. B., Reed, P. M., Loucks, D.P., Mallen-Cooper, M., and Jensen, E.D. (2018). Balancing Hydropower Development and Ecological Impacts in the Mekong: Tradeoffs for Sambor Mega Dam. J. Water Resour. Plann. Manage. DOI: 10.1061/(ASCE)WR.1943-5452.0001036.
+
+# <a name="Contacts"></a>Contacts
 Thomas B. Wild, twild@umd.edu
 
 Patrick M. Reed, patrick.reed@cornell.edu
@@ -14,12 +20,6 @@ Daniel P. Loucks, loucks@cornell.edu
 Martin Mallen-Cooper, mallencooper@optusnet.com.au
 
 Erland D. Jensen, EDJConsultant@gmail.com
-
-# <a name="Overview"></a>Overview
-
-This repository contains all of the code used for the study described in the following paper:
-
-Wild, T. B., Reed, P. M., Loucks, D.P., Mallen-Cooper, M., and Jensen, E.D. (2018). Balancing Hydropower Development and Ecological Impacts in the Mekong: Tradeoffs for Sambor Mega Dam. J. Water Resour. Plann. Manage. DOI: 10.1061/(ASCE)WR.1943-5452.0001036.
 
 # <a name="Contents"></a>Contents
 
