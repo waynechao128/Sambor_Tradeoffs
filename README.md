@@ -1,4 +1,4 @@
-# Sambor_Tradeoffs
+# Sambor Tradeoffs
 
 - [Overview](#Overview)
 - [Contacts](#Contacts)
